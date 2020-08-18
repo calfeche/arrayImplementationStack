@@ -2,10 +2,9 @@
 
 /// <summary>
 /// This application is an implementation of a data structure (Stack) by using a different data strucuture (Array).
-/// This allows four functions. That particulary captures the behavior of stack which is LIFO (last in, first out).
+/// This allows four functions that particulary captures the behavior of stack which is LIFO (last in, first out).
 /// These are: adding values to the stack, removing the topmost values from the stack, printing the last item entered in the stack, and clearing the stack.
 /// Made by: Charles Ray A. Alfeche
-/// Student ID: 2019-30075
 /// Date: 06 March 2020
 /// </summary>
 
